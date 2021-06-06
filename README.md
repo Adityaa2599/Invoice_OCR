@@ -11,4 +11,4 @@ The fields which are extracted are:
 
 **Pytesseract** is used for OCR.
 
-The project was done in google colab and can be run directly by filling the respective path of the image.
+The project was done in google colab and can be run directly by entering the corresponding path of the image.
